@@ -7,7 +7,7 @@ In particular we will use photos of flowers
 
 ## Steps
 
-### 1. Download flower files
+### 1. (optional) Download flower files
 In a terminal, run the following commands:
 ```
 mkdir tf_files
