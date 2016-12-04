@@ -1,6 +1,6 @@
+import sys
 import tensorflow as tf
 
-# change this as you see fit
 image_path = sys.argv[1]
 
 # Read in the image_data
